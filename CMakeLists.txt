@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(Operadores___Resolucion_de_operaciones_aritmeticas)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Operadores___Resolucion_de_operaciones_aritmeticas "Operaciones aritmeticas.cpp")

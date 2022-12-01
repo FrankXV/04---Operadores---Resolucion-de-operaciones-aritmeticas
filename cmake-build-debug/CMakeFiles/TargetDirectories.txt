@@ -1,0 +1,3 @@
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores - Resolucion de operaciones aritmeticas/cmake-build-debug/CMakeFiles/Operadores___Resolucion_de_operaciones_aritmeticas.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores - Resolucion de operaciones aritmeticas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores - Resolucion de operaciones aritmeticas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
